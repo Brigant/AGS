@@ -1,0 +1,7 @@
+version: "3"
+
+tasks:
+  fb-auth-run:
+    cmds:
+      - go run firebase_auth/server/server.go                                                                                                                                                
+      
